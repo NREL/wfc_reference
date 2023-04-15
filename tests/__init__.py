@@ -1,1 +1,1 @@
-"""Unit test package for wfc_framework."""
+"""Unit test package for wfc_reference."""

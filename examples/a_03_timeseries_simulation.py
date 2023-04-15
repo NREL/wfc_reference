@@ -20,10 +20,10 @@ import pandas as pd
 from floris.tools import floris_interface as wfct
 from floris.utilities import wrap_360
 
-from wfc_framework.wind_farm_controller import wind_farm_controller
-from wfc_framework.wind_turbine_controller import wind_turbine_controller
-from wfc_framework.visualization import visualize_flow_field
-from wfc_framework.stochastic_wind_field import stochastic_wind_directions, constrained_stochastic_wind_directions
+from wfc_reference.wind_farm_controller import wind_farm_controller
+from wfc_reference.wind_turbine_controller import wind_turbine_controller
+from wfc_reference.visualization import visualize_flow_field
+from wfc_reference.stochastic_wind_field import stochastic_wind_directions, constrained_stochastic_wind_directions
 
 
 def load_data():

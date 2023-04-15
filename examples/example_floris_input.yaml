@@ -1,4 +1,4 @@
-description: Example FLORIS Input file for wfc_framework
+description: Example FLORIS Input file for wfc_reference
 farm:
   layout_x:
   - 1630.222
