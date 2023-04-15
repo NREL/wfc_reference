@@ -1,0 +1,5 @@
+feather-format
+matplotlib>=3.6.3
+numpy
+pandas
+scipy
