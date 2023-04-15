@@ -16,7 +16,9 @@ REQUIRED = [
     'matplotlib>=3.6.3',
     'numpy',
     'scipy',
-    'pandas'
+    'pandas',
+    'requests',
+    'pyarrow'
 ]
 
 ROOT = Path(__file__).parent
